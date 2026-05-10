@@ -1,6 +1,4 @@
-/* 1. Link external CSS - already done in your HTML */
 
-/* Base page - Element selector */
 body {
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
     font-size: 16px;
@@ -10,8 +8,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
-/* Center-align headings - Requirement */
 h1, h2 {
     text-align: center;
 }
